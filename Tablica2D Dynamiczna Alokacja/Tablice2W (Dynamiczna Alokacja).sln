@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tablice2W (Dynamiczna Alokacja)", "Tablice2W (Dynamiczna Alokacja)\Tablice2W (Dynamiczna Alokacja).vcxproj", "{489C10FC-5FE8-4C77-BC13-FEE7AD46F052}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{489C10FC-5FE8-4C77-BC13-FEE7AD46F052}.Debug|x64.ActiveCfg = Debug|x64
+		{489C10FC-5FE8-4C77-BC13-FEE7AD46F052}.Debug|x64.Build.0 = Debug|x64
+		{489C10FC-5FE8-4C77-BC13-FEE7AD46F052}.Debug|x86.ActiveCfg = Debug|Win32
+		{489C10FC-5FE8-4C77-BC13-FEE7AD46F052}.Debug|x86.Build.0 = Debug|Win32
+		{489C10FC-5FE8-4C77-BC13-FEE7AD46F052}.Release|x64.ActiveCfg = Release|x64
+		{489C10FC-5FE8-4C77-BC13-FEE7AD46F052}.Release|x64.Build.0 = Release|x64
+		{489C10FC-5FE8-4C77-BC13-FEE7AD46F052}.Release|x86.ActiveCfg = Release|Win32
+		{489C10FC-5FE8-4C77-BC13-FEE7AD46F052}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53233FE3-12C6-4D28-A581-25A7D3B256C0}
+	EndGlobalSection
+EndGlobal
