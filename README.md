@@ -1,2 +1,2 @@
-# C_Lang
-Podstawowe rozwiązania i algorytmy w języku C
+# Język C
+Podstawowe rozwiązania i algorytmy w języku C. Wszystkie pliki .c wewnątrz folderów.
